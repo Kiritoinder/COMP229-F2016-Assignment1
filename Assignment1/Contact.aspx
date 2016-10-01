@@ -57,8 +57,43 @@
 </table>
 </form>
 <br />
+        <h3>Keep Connected @:</h3>
+         <h4>
+             <table>
+                 <tr>
+                     <td>Phone </td>
+                     <td>: <a href="tel:+16479246573"> 647-924-6573</a></td>
+                 </tr>
+                 <tr>
+                     <td>Mail </td>
+                     <td>: <a href="mailto:inderbharaj@ymail.com?Subject=Help%20needed" target="_top">
+                          Inder Bharaj</a></td>
+                 </tr>
+                 <tr>
+                     <td>Facebook </td>
+                     <td>: <a href="https://www.facebook.com/InderKirito">
+            <i class="fa fa-facebook-square" aria-hidden="true"></i> Inder Bharaj</a>
+          </td>
+                 </tr>
+                <tr>
+                     <td>Instagram </td>
+                     <td>: <a href="https://www.instagram.com/kiritoinder/">
+                <i class="fa fa-instagram" aria-hidden="true"></i> Inder Bharaj</a>
+            </td>
+                 </tr>
+                <tr>
+                     <td>Twitter </td>
+                     <td>: <a href="https://twitter.com/KiritoInder?lang=en">
+                     <i class="fa fa-twitter" aria-hidden="true"></i> Inder Bharaj @Kiritoinder</a>
+</td>
+                 </tr>
 
-    <p>Phone : <a href="tel:+16479246573">647-924-6573</a><br/>
-Mail &nbsp;&nbsp;&nbsp;: <a href="mailto:inderbharaj@ymail.com?Subject=Help%20needed" target="_top">Inder Bharaj</a><br> </p>    
+ 
+
+     
+
+</table>
+        </h4>
+                   
   </div>
 </asp:Content>
