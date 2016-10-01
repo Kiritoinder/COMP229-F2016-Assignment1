@@ -1,5 +1,9 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site_2.Master" AutoEventWireup="true" CodeBehind="Contact.aspx.cs" Inherits="Assignment1.Contact" %>
-
+<!-- Name: Inderjeet Singh -->
+<!-- Student ID: 300874118 -->
+<!-- Date: September 19, 2016 -->
+<!-- Date Modified: September 30, 2016 -->
+<!-- Contact file -->
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <div>
         <br>

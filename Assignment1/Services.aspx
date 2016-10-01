@@ -1,4 +1,11 @@
 ﻿<%@ Page Title="Services" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Services.aspx.cs" Inherits="Assignment1.Services" %>
+
+<!-- Name: Inderjeet Singh -->
+<!-- Student ID: 300874118 -->
+<!-- Date: September 19, 2016 -->
+<!-- Date Modified: September 30, 2016 -->
+<!-- Services file -->
+
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <h1>Our Services</h1>
     <p>We do Web Designing.Web design encompasses many different skills and disciplines in <br />

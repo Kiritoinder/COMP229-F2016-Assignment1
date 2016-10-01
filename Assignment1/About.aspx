@@ -1,4 +1,11 @@
-﻿<%@ Page Title="About" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="About.aspx.cs" Inherits="Assignment1.About" %>
+﻿<%@ Page Title="Bio" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="About.aspx.cs" Inherits="Assignment1.About" %>
+
+<!-- Name: Inderjeet Singh -->
+<!-- Student ID: 300874118 -->
+<!-- Date: September 19, 2016 -->
+<!-- Date Modified: September 30, 2016 -->
+<!-- About file -->
+
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <img src="Assets/About_Me.png"style="width:940px;height:150px" />
 

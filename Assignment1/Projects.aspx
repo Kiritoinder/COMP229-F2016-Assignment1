@@ -1,4 +1,11 @@
 ﻿<%@ Page Title="Projects" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Projects.aspx.cs" Inherits="Assignment1.Projects" %>
+
+<!-- Name: Inderjeet Singh -->
+<!-- Student ID: 300874118 -->
+<!-- Date: September 19, 2016 -->
+<!-- Date Modified: September 30, 2016 -->
+<!-- Project file -->
+
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <h2>These are some projects that i have done and currently updating.</h2>
 

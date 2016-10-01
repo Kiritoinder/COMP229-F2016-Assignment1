@@ -2,7 +2,12 @@
 
 <!DOCTYPE html>
 
-<html>
+<!-- Name: Inderjeet Singh -->
+<!-- Student ID: 300874118 -->
+<!-- Date: September 19, 2016 -->
+<!-- Date Modified: September 30, 2016 -->
+<!-- Site.Master file -->
+<html lang="en">
 <head runat="server">
      <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -28,7 +33,7 @@
         <li><a href="Default.aspx"><i class="fa fa-home fa-lg"></i>  Home</a></li>
                         <li id="projects" runat="server"><a href="Projects.aspx"><i class="fa fa-th fa-lg"></i>  Projects</a></li>
                         <li id="services" runat="server"><a href="Services.aspx"><i class="fa fa-gear fa-lg"></i>  Services</a></li>
-                        <li id="about" runat="server"><a href="About.aspx"><i class="fa fa-info fa-lg"></i>  About</a></li>
+                        <li id="about" runat="server"><a href="About.aspx"><i class="fa fa-info fa-lg"></i>  Bio</a></li>
                         <li id="contact" runat="server" style="float:right"><a href="Contact.aspx"><i class="fa fa-phone fa-lg"></i>  Contact</a></li>
                        </ul></nav>
 
