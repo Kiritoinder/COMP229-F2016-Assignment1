@@ -10,7 +10,7 @@
 namespace Assignment1 {
     
     
-    public partial class Site1 {
+    public partial class Site_2 {
         
         /// <summary>
         /// form1 control.

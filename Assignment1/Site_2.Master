@@ -1,10 +1,10 @@
-﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.Master.cs" Inherits="Assignment1.Site1" %>
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site_2.master.cs" Inherits="Assignment1.Site_2" %>
 
 <!DOCTYPE html>
 
 <html>
 <head runat="server">
-     <meta charset="utf-8">
+    <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title></title>
@@ -13,41 +13,42 @@
     <link href="Content/bootstrap-theme.min.css" rel="stylesheet" />
     <link href="Content/font-awesome.min.css" rel="stylesheet" />
     <link href="Content/app.css" rel="stylesheet" />
-                                
+
 </head>
-
 <body>
-    <div style="width:1024px; margin-left:auto; margin-right:auto; background-attachment: fixed;">
-
     <form id="form1" runat="server">
-            <!-- Main Navigation -->
+        
+<div style="width:1024px; margin-left:auto; margin-right:auto;background-color:darkseagreen">
+        
+        <img src="Assets/Contact_Us.jpg" width="1024" />
+        <br />
+              <!-- Main Navigation -->
         
 <nav class="navbar navbar-default navbar-fixed-top">
                 <ul>
-                    <li><a href="Default.aspx"> <img src="Assets/Logo.JPG" style="height: 19px; width: 30px" /></a></li>
+                     <li><a href="Default.aspx"> <img src="Assets/Logo.JPG" style="height: 19px; width: 30px" /></a></li>
         <li><a href="Default.aspx"><i class="fa fa-home fa-lg"></i>  Home</a></li>
                         <li id="projects" runat="server"><a href="Projects.aspx"><i class="fa fa-th fa-lg"></i>  Projects</a></li>
                         <li id="services" runat="server"><a href="Services.aspx"><i class="fa fa-gear fa-lg"></i>  Services</a></li>
                         <li id="about" runat="server"><a href="About.aspx"><i class="fa fa-info fa-lg"></i>  About</a></li>
                         <li id="contact" runat="server" style="float:right"><a href="Contact.aspx"><i class="fa fa-phone fa-lg"></i>  Contact</a></li>
                        </ul></nav>
-
-
-             
-        <main>
-            <br /><br /><br /><br />
-<div style="width:980px;height:800px; margin-left:auto; margin-right:auto;background-color:cadetblue;">
+    <main>
+     <br /><br /><br /><br />
+<div style="width:980px;height:800px; margin-left:auto; margin-right:auto;background-color:transparent">
     <br /><br />
     <div style="width:950px;height:800px; margin-left:auto; margin-right:auto;background-color:transparent">
-     <asp:ContentPlaceHolder ID="MainContent" runat="server">
+     
+             
+        <asp:ContentPlaceHolder ID="MainContent" runat="server">
         
         </asp:ContentPlaceHolder>
         </div>
     </div>
-    </main>
-        </form>
+        </main>
+    </form>
         <!-- Footer -->
-        <div style="width:980px; margin-left:auto; margin-right:auto;background-color:cadetblue;">
+        <div style="width:980px; margin-left:auto; margin-right:auto;background-color:transparent;">
     <nav>
 
         <div class="container">
@@ -61,12 +62,9 @@
 
         </div>
     </nav>
-            </div>
          <!-- Scripts Section -->
         <script src="Scripts/jquery-2.2.4.min.js"></script>
         <script src="Scripts/bootstrap.min.js"></script>
         <script src="Scripts/app.js"></script>
-        <br /><br /><br /><br /><br /><br /><br /><br /><br />
-    </div>
 </body>
 </html>
