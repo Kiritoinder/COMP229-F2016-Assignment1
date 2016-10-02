@@ -1,10 +1,5 @@
 ﻿    <%@ Page Title="Home" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="Assignment1.Default" %>
 
-<!-- Name: Inderjeet Singh -->
-<!-- Student ID: 300874118 -->
-<!-- Date: September 19, 2016 -->
-<!-- Date Modified: September 30, 2016 -->
-<!-- Default file -->
 
     <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     

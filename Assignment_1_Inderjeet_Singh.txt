@@ -1,0 +1,8 @@
+
+Inderjeet Singh
+300874118
+Git hub repository for assignment1
+https://github.com/Kiritoinder/COMP229-F2016-Assignment1
+
+Azure
+http://comp229-f2016-assignment-1.azurewebsites.net/
