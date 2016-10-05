@@ -7,7 +7,7 @@
        web graphic design; interface design; authoring, including standardised code and <br />
        proprietary software; user experience design; and search engine optimization. </p>
 
-    <h3>We provde service for:</h3>
+    <h3>We provide service for:</h3>
     <ol style="background-color:transparent;list-style:square; list-style-type:circle">
         <li style="float:none;">Making Games</li>
         <li style="float:none">Making Websites</li>
